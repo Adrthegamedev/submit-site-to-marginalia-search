@@ -139,6 +139,7 @@ bfdes.in
 bfontaine.net
 bhoey.com
 bhupalsapkota.com
+biggieblog.com
 biggles.games
 bill.harding.blog
 billylo.medium.com
@@ -175,6 +176,7 @@ blog.eldrid.ge
 blog.erethon.com
 blog.est.im
 blog.eutopian.io
+blog.fetus.jp
 blog.fponzi.me
 blog.gnoack.org
 blog.gripdev.xyz
@@ -205,7 +207,9 @@ blog.martijnarts.com
 blog.merzlabs.com
 blog.metaobject.com
 blog.michalp.net
+blog.mmpa.info
 blog.mohdshahrim.com
+blog.momentum-mod.org
 blog.nawaz.org
 blog.nick.burns.io
 blog.nindalf.com
@@ -227,6 +231,7 @@ blog.scottlogic.com
 blog.sebastiansastre.co
 blog.senko.net
 blog.skouf.com
+blog.skytemple.org
 blog.stargrave.org
 blog.startuptaxaccounting.com
 blog.steren.fr
